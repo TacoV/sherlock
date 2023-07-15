@@ -5,7 +5,7 @@ Er zijn vijf moorden gepleegd
 4. [[Leo Stephard]] op 3-6
 5. [[Roland Jaquard]] op 4-6
 
-![[Pasted image 20230715124946.png]]
+![[case-8-1.png]]
 
-![[Pasted image 20230715125003.png]]
+![[case-8-2.png]]
 

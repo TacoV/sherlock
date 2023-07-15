@@ -1,0 +1,1 @@
+Het kleine Franse wapen van Jaquard waar [[Leo Stephard]] mee is aangeschoten waarna hij verdronk, zie [[38 EC - Coroner Meets]] en [[Roland Jaquard]].

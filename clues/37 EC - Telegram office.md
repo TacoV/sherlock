@@ -4,4 +4,4 @@ Hier vinden we het [[Telegram]] wat luidt:
 	AT WAREHOUSE 1, BANKSIDE SE
 	MOLE
 
-![[Pasted image 20230715125509.png]]
+![[37-EC.png]]

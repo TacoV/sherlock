@@ -10,8 +10,8 @@ Items: geen geld, wel bankboekje van de [[Bank of England]], en een lidmaatschap
 
 TO BE CONTINUED
 
-![[Pasted image 20230715125644.png]]
+![[22-SW-1.png]]
 
-![[Pasted image 20230715125653.png]]
+![[22-SW-2.png]]
 
-![[Pasted image 20230715125701.png]]
+![[22-SW-3.png]]

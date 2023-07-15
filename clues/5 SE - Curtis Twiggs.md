@@ -1,8 +1,8 @@
 [[Curtis Twiggs]] is weg sinds [[31 mei]]. Liet een tas achter maar is hem nog niet komen halen. Is een "bad man".
 
-![[Pasted image 20230715125527.png]]
+![[5-SE-1.png]]
 
-![[Pasted image 20230715125533.png]]
+![[5-SE-2.png]]
 
 * Een gouden horloge met initalen C.A.
 * Juwelen en ringen
