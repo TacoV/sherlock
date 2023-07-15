@@ -9,7 +9,7 @@ Samen speelden zijn tegen [[Nathan Revell]] en [[Ronald Adair]], en wonnen verda
 
 30-5 dronk [[Ronald Adair]] met [[Colonel Sebastian Moran]], wachtend op Revell die natuurlijk niet kwam. Moran baalde en zei dat-ie te vinden was in [[Tankerville Club]].
 
-Adair zag [[Roland Jaquard]] 3-6 voor het laatst, in [[Bagatelle Club]], om 16.30. Hij zou naar het theater gaan en dan uit eten maar sloeg uiteindelijk het theater over, hij kon tot 22.00 spelen en het eten nog halen. Ze speelden tot 20.30, toen kreeg Jaquard een [[telegram]] en vertrok. Ze speelden tegen [[Merlin Newbury]] en [[Clifton Loveless]].
+Adair zag [[Roland Jaquard]] 3-6 voor het laatst, in [[Bagatelle Club]], om 16.30. Hij zou naar het theater gaan en dan uit eten maar sloeg uiteindelijk het theater over, hij kon tot 22.00 spelen en het eten nog halen. Ze speelden tot 20.30, toen kreeg Jaquard een [[Telegram]] en vertrok. Ze speelden tegen [[Merlin Newbury]] en [[Clifton Loveless]].
 
 Adair zag [[Colonel Sebastian Moran]] al een tijdje niet meer, mogelijk is-ie op het [[Continent]] (is dat gewoon vasteland of een locatie in het spel?).
 
