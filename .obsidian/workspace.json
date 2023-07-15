@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clues/22 SW - Murray.md",
+                "file": "clues/38 EC - Coroner Meets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clues/22 SW - Murray.md",
+                "file": "clues/38 EC - Coroner Meets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clues/22 SW - Murray.md",
+                "file": "clues/38 EC - Coroner Meets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clues/22 SW - Murray.md"
+                "file": "clues/38 EC - Coroner Meets.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   "active": "2d1f692d6831c35f",
   "lastOpenFiles": [
     "README.md",
+    "clues/22 SW - Murray.md",
     "clues/42 NW - Sherlock Holmes.md",
     "clues/40 NW - het huis van Jaquard.md",
     "clues/5 SE - Curtis Twiggs.md",
@@ -178,7 +179,6 @@
     "img/Pasted image 20230715124946.png",
     "img",
     "Cyril Maud.md",
-    "clues/22 SW - Murray.md",
     "Pasted image 20230715125730.png",
     "Pasted image 20230715125731.png",
     "img/Pasted image 20230715125701.png",
