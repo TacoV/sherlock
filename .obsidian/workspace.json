@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "fe3bcd2c00369521",
+    "type": "split",
+    "children": [
+      {
+        "id": "38ddc8a62cf86333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d43b58ebfb786600",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5050ad0a370c80ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9778b7654254cd13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00435ed74f76ef82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3fb8df90e522acc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a63774478d9f819",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a573ae223561b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c6d9f7b4d38a135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831cda579ce1cd0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57ff456af1be30c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab9c03219421f340",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a184a35fe736976",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d43b58ebfb786600",
+  "lastOpenFiles": [
+    "README.md",
+    "Clue 9 - 42 NW - Sherlock Holmes.md",
+    "Pasted image 20230715125730.png",
+    "Pasted image 20230715125731.png",
+    "Pasted image 20230715125738.png",
+    "Kaart.md",
+    "Clue 10 - 22 SW - Murray.md",
+    "Pasted image 20230715125701.png",
+    "Pasted image 20230715125653.png",
+    "Pasted image 20230715125644.png",
+    "Pasted image 20230715125632.png",
+    "Clue 8 - 40 NW - Jaquard.md",
+    "Pasted image 20230715125619.png",
+    "Pasted image 20230715125608.png",
+    "Clue 7 - 5 SE - Twiggs.md",
+    "Pasted image 20230715125533.png",
+    "Clue 6 - 37 EC - Telegram office.md",
+    "Clue 5 - 31 SW - Novak Adams & Co.md",
+    "Clue 4 -26 NW - Newbury.md",
+    "Clue 3 - 34 WC - Tankerville Club.md",
+    "Clue 2 -38 EC - Coroner Meets.md",
+    "Clue 1 - 14 NW - Bagatelle Club.md",
+    "Clue 0 - Case uitleg.md"
+  ]
+}

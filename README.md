@@ -1,0 +1,12 @@
+We hebben deze clues:
+* [[Clue 0 - Case uitleg]]
+* [[Clue 1 - 14 NW - Bagatelle Club]]
+* [[Clue 2 -38 EC - Coroner Meets]]
+* [[Clue 3 - 34 WC - Tankerville Club]]
+* [[Clue 4 -26 NW - Newbury]]
+* [[Clue 5 - 31 SW - Novak Adams & Co]]
+* [[Clue 6 - 37 EC - Telegram office]]
+* [[Clue 7 - 5 SE - Twiggs]]
+* [[Clue 8 - 40 NW - Jaquard]]
+* [[Clue 9 - 42 NW - Sherlock Holmes]]
+* [[Clue 10 - 22 SW - Murray]]
