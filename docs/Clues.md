@@ -1,4 +1,4 @@
-[[Case uitleg]]
+[[index]]
 We hebben deze clues:
 
 1. [[14 NW - Bagatelle Club]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clues.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clues.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clues.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clues.md"
+                "file": "index.md"
               }
             }
           }
@@ -147,12 +147,13 @@
   },
   "active": "d773963cd480fbf1",
   "lastOpenFiles": [
+    "Clues.md",
     "Mauser T11.md",
     "clues/38 EC - Coroner Meets.md",
     "img/38-EC-1.png",
     "La Faucheaux.md",
     "mensen/Leo Stephard.md",
-    "Case uitleg.md",
+    "index.md",
     "mensen/Roland Jaquard.md",
     "locaties",
     "mensen",
@@ -173,7 +174,6 @@
     "img/5-SE-2.png",
     "dagen/3 juni.md",
     "dagen/29 mei.md",
-    "Clues.md",
     "clues/22 SW - Murray.md",
     "clues/42 NW - Sherlock Holmes.md",
     "clues/5 SE - Curtis Twiggs.md",
