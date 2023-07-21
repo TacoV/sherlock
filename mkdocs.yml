@@ -1,4 +1,5 @@
 site_name: Sherlock 8
+docs_dir: .
 
 theme:
     name: 'material'
