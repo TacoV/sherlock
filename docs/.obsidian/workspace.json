@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb16f8ed472336e7",
+        "id": "63149a406fd79078",
         "type": "tabs",
         "children": [
           {
-            "id": "d773963cd480fbf1",
+            "id": "7e76b7ce862525d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,15 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d773963cd480fbf1",
+  "active": "7e76b7ce862525d8",
   "lastOpenFiles": [
+    "index.md",
     "Clues.md",
-    "Mauser T11.md",
+    "items",
+    "Kaart.md",
+    "items/Mauser T11.md",
     "clues/38 EC - Coroner Meets.md",
     "img/38-EC-1.png",
-    "La Faucheaux.md",
+    "items/La Faucheaux.md",
     "mensen/Leo Stephard.md",
-    "index.md",
     "mensen/Roland Jaquard.md",
     "locaties",
     "mensen",
@@ -180,10 +174,9 @@
     "locaties/Tankerville Club.md",
     "clues/34 WC - Tankerville Club.md",
     "mensen/Ronald Adair.md",
-    "Telegram.md",
+    "items/Telegram.md",
     "mensen/Colonel Sebastian Moran.md",
     "dagen/1 juni.md",
-    "dagen/31 mei.md",
     "clues",
     "dagen",
     "img"
