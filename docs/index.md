@@ -18,6 +18,7 @@ We hebben deze clues:
 8. [[40 NW - het huis van Jaquard]]
 9. [[42 NW - Sherlock Holmes]]
 10. [[22 SW - Murray]]
+11. [[13 SE - Theater]]
 
 
 ![[case-8-1.png]]
