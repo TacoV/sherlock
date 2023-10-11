@@ -20,6 +20,17 @@ We hebben deze clues:
 10. [[22 SW - Murray]]
 11. [[13 SE - Theater]]
 
+Test
+timeline
+    title Gebeurtenissen rondom de vijf moorden
+    29-5 : Revell kaart met Jaquard
+    30-5 : Revell ✝
+    31-5 : Maud ✝
+    1-6 : Attard ✝
+        : Stephard vleeswond
+    2-6 :
+    3-6 : Stephard ✝
+    4-6 : Jaquard ✝
 
 ![[case-8-1.png]]
 
