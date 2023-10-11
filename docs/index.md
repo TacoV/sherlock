@@ -21,6 +21,7 @@ We hebben deze clues:
 11. [[13 SE - Theater]]
 
 Test
+```mermaid
 timeline
     title Gebeurtenissen rondom de vijf moorden
     29-5 : Revell kaart met Jaquard
@@ -31,6 +32,7 @@ timeline
     2-6 :
     3-6 : Stephard ✝
     4-6 : Jaquard ✝
+```
 
 ![[case-8-1.png]]
 
