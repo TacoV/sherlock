@@ -25,6 +25,7 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - nl2br
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.tasklist:
