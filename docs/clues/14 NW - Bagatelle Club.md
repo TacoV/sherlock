@@ -3,6 +3,7 @@ Gaat over de [[Bagatelle Club]], waar men Whist speelt
 Eigenaar is [[Roger Chapman]].
 
 Barman [[Edwin]] noemt [[Colonel Sebastian Moran]] als maatje van [[Roland Jaquard]].
+
 Samen speelden zijn tegen [[Nathan Revell]] en [[Ronald Adair]], en wonnen verdacht veel.
 
 [[Ronald Adair]] zag [[Nathan Revell]] voor het laatst op [[29 mei]]. Ze speelden tot middernacht en verloren veel. Revell ging zich verdrinken, Moran kwam erbij zitten, ze kregen ruzie. Revell dronk daarna solo.

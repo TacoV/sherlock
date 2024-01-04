@@ -12,7 +12,6 @@ Tijdslijnen:
 
 [[Roland Jaquard]] is [[4 juni]] gedood in een handgevecht.
 
-
 ![[timeline-sketch.png]]
 
 TO BE CONTINUED
@@ -20,4 +19,3 @@ TO BE CONTINUED
 ![[38-EC-1.png]]
 
 ![[38-EC-2.png]]
-

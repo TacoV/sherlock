@@ -1,0 +1,25 @@
+site_name: Sherlock case 8
+
+docs_dir: docs
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+markdown_extensions:
+  - pymdownx.tasklist
+  - pymdownx.magiclink
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - roamlinks
+  - mkdocs-backlinks
+
+extra:
+  generator: false

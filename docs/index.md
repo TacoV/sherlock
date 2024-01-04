@@ -19,8 +19,10 @@ We hebben deze clues:
 9. [[42 NW - Sherlock Holmes]]
 10. [[22 SW - Murray]]
 11. [[13 SE - Theater]]
+12. [[2 SW - Langdale Pike]]
+13. [[52 EC - Porky Shinwell]]
+14. [[19 WC - Kathleen Lindsay]]
 
-Test
 ```mermaid
 timeline
     title Gebeurtenissen rondom de vijf moorden
@@ -37,4 +39,3 @@ timeline
 ![[case-8-1.png]]
 
 ![[case-8-2.png]]
-

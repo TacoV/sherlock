@@ -1,4 +1,4 @@
-Slachtoffer nummer 1, zie [[index]]
+Slachtoffer nummer 1, zie [[Sherlock/index]]
 
 [[29 mei]] kaarten in de [[Bagatelle Club]] met [[Ronald Adair]] tegen [[Roland Jaquard]] en [[Colonel Sebastian Moran]], zie [[14 NW - Bagatelle Club]]
 
