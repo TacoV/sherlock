@@ -97,11 +97,11 @@
       "ignore-words": ""
     },
     "blockquote-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "default-language-for-code-fences": {
       "enabled": false,
