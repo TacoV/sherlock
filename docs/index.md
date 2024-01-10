@@ -36,6 +36,19 @@ timeline
     4-6 : Jaquard ✝
 ```
 
+# Case eight
+
+## The Thames Murders
+**4 June, 1890**
+
+Billy holds the door open for us as we enter the familiar surroundings of 221B Baker Street.
+"Here are our friends now, Gregson. COme in and take the charis here at the table." After his greeting, Holmes settles back into his chair and waits for us to take our seats across from him and Inspector Tobias Gregson of Scotland Yard. "I believe you know my friends, Gregson?"
+"Yes. Yes, of course." Gregson nods his head towards usin greeting.
+"Watson, could you bring some tea over for our friends?"
+"Of course, Holmes. My pleasure"
+
+
+
 ![[case-8-1.png]]
 
 ![[case-8-2.png]]
